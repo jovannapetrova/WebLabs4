@@ -1,1 +1,1 @@
-Spring Security actions on my app
+Spring Security actions on my Spring Boot app
